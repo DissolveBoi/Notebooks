@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "1ac740d79e5a0d9a",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ff00ad69b62623a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8245e7994da834a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "d2l/线性神经网络.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d8fa08ec1e0424aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "081c83e314592aa6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b93060094ec34c8d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5ab89e5ff5c151f0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0fffc3c267513731",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "ac80a94338eefd53",
+    "type": "split",
+    "children": [
+      {
+        "id": "b849e0eb19f14f43",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a337ad536fcd376",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "d2l/线性神经网络.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "91a538f7615cc378",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "d2l/线性神经网络.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6344967739f5c73f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a352a811b027a712",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "d2l/线性神经网络.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "b8245e7994da834a",
+  "lastOpenFiles": [
+    "Pasted image 20231011191055.png",
+    "Pasted image 20231011191003.png",
+    "d2l/线性神经网络.md"
+  ]
+}
